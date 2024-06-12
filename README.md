@@ -25,18 +25,29 @@ O SPECTRA representa um avanço significativo na gestão da segurança urbana, i
 |------------------------------------|------------------------------------------------------------------------------------------------|
 | ![Fluxograma do Projeto](https://github.com/Ito-Santana/SPECTRA/blob/main/Recursos/pins.png) | Roxo : Assédio<br><br>Vermelho: Estupro<br><br>Cinza: Assalto<br><br>Verde: Crime de Trânsito<br><br>Azul: Arrastão<br><br>Laranja: Arrombamento<br><br>Preto: Homícidio
 
-##Prótotipos
-|WIREFRAME | MOCKUP | FINAL |
-|----------|--------|-------|
-|![wireframe](https://github.com/Ito-Santana/SPECTRA/blob/main/Recursos/Protótipos%20(Baixa%2C%20Média%20e%20Alta%20fidelidade)/Baixa_Fidelidade.jpeg)|![mockup](
 
-### Recursos
-- **Previsão de Riscos:** Algoritmos de previsão baseados em IA para identificar riscos potenciais.
-- **Controle Tático:** Ferramentas de controle para gerenciar e mitigar riscos identificados.
-- **Alertas em Tempo Real:** Notificações instantâneas de riscos emergentes.
-- **Análise de Dados:** Painéis de controle interativos para visualização de dados e tendências.
+# Como Executar
 
-### Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/spectra.git
+Este é um guia para executar o projeto SPECTRA.
+
+## Pré-requisitos
+
+Antes de começar, verifique se você possui os seguintes requisitos instalados:
+
+- Python 3.x
+- Todas as bibliotecas listadas no arquivo `requirements.txt`
+- Uma chave API válida do Google Maps. Se você não tiver uma, consulte a documentação oficial [aqui](https://developers.google.com/maps/documentation/geocoding/overview?hl=pt-br).
+
+## Passos para Execução
+
+1. Faça o download do projeto para o seu computador.
+
+2. Instale as bibliotecas necessárias executando o seguinte comando no terminal:
+
+
+3. No arquivo `Functions/BuildMap.py`, na classe `GoogleMaps`, localize a linha onde está escrito `key=INSIRA SUA CHAVE API` e substitua `INSIRA SUA CHAVE API` pela sua chave API do Google Maps.
+
+4. Execute o código `SPECTRA.py` no terminal:
+
+
+
