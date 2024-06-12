@@ -34,6 +34,13 @@ O SPECTRA representa um avanço significativo na gestão da segurança urbana, i
 | ![Fluxograma do Projeto](https://github.com/Ito-Santana/SPECTRA/blob/main/Recursos/pins.png) | Roxo : Assédio<br><br>Vermelho: Estupro<br><br>Cinza: Assalto<br><br>Verde: Crime de Trânsito<br><br>Azul: Arrastão<br><br>Laranja: Arrombamento<br><br>Preto: Homícidio
 
 
+# Equipe
+1. Italo Santana - jiss@cesar.school
+2. Guilherme Borges - gbvc@cesar.school
+3. Davi Paiva - dpcs@cesar.school
+4. Henrique Pimentel - hdgp@cesar.school 
+5. Alexandre Sergio - asaaj@cesar.school
+
 # Como Executar
 
 Este é um guia para executar o projeto SPECTRA.
