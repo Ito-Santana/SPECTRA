@@ -3,6 +3,14 @@
 
 ![Logo do Projeto](https://github.com/Ito-Santana/SPECTRA/blob/main/Recursos/Logo/LOGO%20VERTICAL.png)
 
+<p align="center">
+  <a href="https://youtu.be/fYQhm1CPDAw">
+    <img src="https://img.youtube.com/vi/fYQhm1CPDAw/maxresdefault.jpg" alt="Vídeo de Demonstração">
+  </a>
+</p>
+<p align="center">Clique na imagem para assistir</p>
+
+
 ## Descrição
 O **SPECTRA** é um sistema  desenvolvido como parte do currículo da disciplina de Projetos, oferecida no curso de Gestão de Tecnologia da Informação pela Cesar School. Seu principal propósito é mapear e analisar em tempo real os índices de criminalidade em ambientes urbanos, utilizando tecnologias avançadas de geolocalização e análise de dados.
 
